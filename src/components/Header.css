@@ -1,0 +1,31 @@
+header {
+  background-color: #333;
+  padding: 1em;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: top 0.3s;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li {
+  margin: 0 1em;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+header.hidden {
+  top: -60px; /* Adjust this value based on your header's height */
+}
+
+header.visible {
+  top: 0;
+}

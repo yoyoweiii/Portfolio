@@ -1,0 +1,14 @@
+#landing {
+    text-align: center;
+    padding: 2em 0;
+  }
+  
+  .avatar {
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  .landing-content h1 {
+    margin: 1em 0;
+  }
+  
