@@ -1,7 +1,7 @@
 {
   "name": "protfolio",
   "version": "0.1.0",
-  "homepage": "https://yoyoweiii.github.io/Portfolio",
+  "homepage": "https://yoyoweiii.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
